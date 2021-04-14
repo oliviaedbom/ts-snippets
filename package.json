@@ -1,0 +1,22 @@
+{
+  "name": "ts-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliviaedbom/ts-snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliviaedbom/ts-snippets/issues"
+  },
+  "homepage": "https://github.com/oliviaedbom/ts-snippets#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
